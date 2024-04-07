@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "preprocessing_using_tacotron2", "preprocessing_using_tacotron2\preprocessing_using_tacotron2.pyproj", "{D757BCDA-2E84-4E85-AE6C-57CDBC33A060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D757BCDA-2E84-4E85-AE6C-57CDBC33A060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D757BCDA-2E84-4E85-AE6C-57CDBC33A060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BD15141-6AEB-4641-8140-7A0CF5CE44E4}
+	EndGlobalSection
+EndGlobal
